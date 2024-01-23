@@ -15,5 +15,5 @@ At our system each order is assigned to a unique customer_id. This means that th
 
 ## Data Visualization
 
-![image]
+![image](https://github.com/jessngph09/Brazilian-E-commerce-Store-Challenge/blob/2e0abe2e11559e3dd881152f1bda73f8d1857eb2/Assets/Screenshot%202024-01-23%20at%2012.54.22%20PM.png)
 
