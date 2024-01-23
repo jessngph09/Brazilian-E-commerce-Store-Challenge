@@ -12,3 +12,6 @@ This dataset has information about the customer and its location. Use it to iden
 At our system each order is assigned to a unique customer_id. This means that the same customer will get different ids for different orders. The purpose of having a customer_unique_id on the dataset is to allow you to identify customers that made repurchases at the store. Otherwise you would find that each order had a different customer associated with.
 
 ![image](https://github.com/jessngph09/Brazilian-E-commerce-Store-Challenge/blob/c6b79fee08757832ac3cf1e6e298d432dcc82726/Assets/data%20model.png)
+
+## Data Visualization
+
